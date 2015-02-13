@@ -2,7 +2,6 @@ name = PNW Page
 description = Common page configuration and settings
 core = 7.x
 package = PNW
-php = 5.2.4
 version = 7.x-1.0
 project = pnw_page
 dependencies[] = ctools
